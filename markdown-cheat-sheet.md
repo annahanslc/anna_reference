@@ -50,6 +50,15 @@ These are the elements outlined in John Gruber’s original design document. All
 
 [Markdown Guide](https://www.markdownguide.org)
 
+
+### Link with anchor tag:
+
+The link: Go to [Descriptive statistics](#sec2p1)
+
+The anchor: 2.1 Descriptive statistics <a name="sec2p1"></a>
+
+---
+
 ### Image
 
 ![alt text](https://www.markdownguide.org/assets/images/tux.png)
@@ -117,3 +126,5 @@ H~2~O
 ### Superscript
 
 X^2^
+
+
